@@ -1,0 +1,20 @@
+[camera
+<
+look_from(0 0 10)
+look_at(0 0 0)
+translation(0 0 0)
+>
+light
+<
+color(255 255 255)
+position(0 0 10)
+translation(0 0 0)
+>
+sphere
+<
+color(255 100 0)
+position(2 0 0)
+r(1)
+translation(0 0 0)
+>
+]

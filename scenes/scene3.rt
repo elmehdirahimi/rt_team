@@ -1,0 +1,30 @@
+[camera
+<
+look_from(0 0 10)
+look_at(0 0 0)
+translation(0 0 0)
+>
+light
+<
+color(255 255 255)
+position(0 0 10)
+translation(0 0 0)
+>
+cylinder
+<
+color(10 60 100)
+position(0 0 0)
+r(1)
+direction(0 1 0)
+rotation(-80 0 0)
+translation(0 0 0)
+>
+cylinder
+<
+color(10 60 100)
+position(4 0 0)
+r(1)
+direction(0 0 1)
+rotation(0 0 80)
+translation(0 1 0)
+>

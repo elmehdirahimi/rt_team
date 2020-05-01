@@ -1,0 +1,21 @@
+[camera
+<
+look_from(0 0 10)
+look_at(0 0 0)
+translation(0 0 0)
+>
+light
+<
+color(255 255 255)
+position(0 0 10)
+translation(0 0 0)
+>
+plane
+<
+color(255 100 0)
+position(0 0 0)
+direction(0 0 1)
+rotation(30 30 0)
+translation(0 0 0)
+>
+]

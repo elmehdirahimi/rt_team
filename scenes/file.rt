@@ -1,0 +1,54 @@
+[camera
+<
+look_from(310 400 400)
+look_at(0 0 0)
+translation(0 0 0)
+>
+light
+<
+color(255 255 255)
+position(-50 100 400)
+translation(0 0 0)
+>
+cone
+<
+color(255 255 0)
+position(70 100 170)
+r(0.52)
+direction(0 1 0)
+rotation(0 0 30)
+translation(0 0 0)
+>
+plane
+<
+color(0 0 170)
+position(-100 -80 0)
+direction(0 0 1)
+rotation(0 0 0)
+translation(0 0 0)
+>
+plane
+<
+color(119 119 119)
+position(0 10 0)
+direction(0 1 0)
+rotation(0 0 0)
+translation(0 0 0)
+>
+sphere
+<
+color(255 0 0)
+position(40 60 150)
+r(35)
+translation(0 0 0)
+>
+cylinder
+<
+color(0 255 0)
+position(-60 600 100)
+r(20)
+direction(0 1 0)
+rotation(0 0 0)
+translation(0 0 0)
+>
+]
